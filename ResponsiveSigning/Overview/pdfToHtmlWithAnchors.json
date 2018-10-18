@@ -1,0 +1,35 @@
+{
+    "recipients": {
+        "signers": [{
+            "tabs": {
+                "signHereTabs": [{
+                    "tabLabel": "Sig1",
+                    "value": "default",
+                    "documentId": "1",
+                    "recipientId": "1",
+                    "pageNumber": "1",
+                    "anchorString": "Example signature tab",
+                    "anchorXOffset": "-20",
+                    "anchorYOffset": "0",
+                    "anchorHorizontalAlignment": "Left",
+                    "anchorIgnoreIfNotPresent": "true"
+                }]
+            },
+            "name": "Example J. Simpson",
+            "email": "ejs@example.com",
+            "clientUserId": "ejs@example.com",
+            "recipientId": "1",
+            "routingOrder": "1"
+        }]
+    },
+    "status": "sent",
+    "emailSubject": "Example HTML Responsive Signing Form",
+    "documents": [{
+        "documentId": "1",
+        "name": "SigningForm.pdf",
+        "htmlDefinition": {
+            "source": "document"
+        },
+        "documentBase64": "JVBERi0xL … VPRg0K"
+    }]
+}

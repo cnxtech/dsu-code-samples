@@ -1,0 +1,20 @@
+{
+    "recipients": {
+        "signers": [{
+            "email": "joesigner@company.com",
+            "tabs": {
+                "signHereTabs": [{
+                    "name": "SignHere",
+                    "tabLabel": "MyLabel",
+                    "documentId": "1",
+                    "recipientId": "1",
+                    "pageNumber": "1"
+                }]
+            }
+        }]
+    }
+}
+
+
+
+
